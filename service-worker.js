@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jibaro/precache-manifest.e1aa259151e6849655813adda4322bef.js"
+  "/jibaro/precache-manifest.d6c51e886bc10f883b13e750861bc806.js"
 );
 
 self.addEventListener('message', (event) => {
