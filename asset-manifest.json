@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jibaro/static/css/main.7872c039.chunk.css",
+    "main.js": "/jibaro/static/js/main.82e5a6f7.chunk.js",
+    "main.js.map": "/jibaro/static/js/main.82e5a6f7.chunk.js.map",
+    "runtime-main.js": "/jibaro/static/js/runtime-main.d9de535b.js",
+    "runtime-main.js.map": "/jibaro/static/js/runtime-main.d9de535b.js.map",
+    "static/js/2.6211fe80.chunk.js": "/jibaro/static/js/2.6211fe80.chunk.js",
+    "static/js/2.6211fe80.chunk.js.map": "/jibaro/static/js/2.6211fe80.chunk.js.map",
+    "index.html": "/jibaro/index.html",
+    "precache-manifest.e1aa259151e6849655813adda4322bef.js": "/jibaro/precache-manifest.e1aa259151e6849655813adda4322bef.js",
+    "service-worker.js": "/jibaro/service-worker.js",
+    "static/css/main.7872c039.chunk.css.map": "/jibaro/static/css/main.7872c039.chunk.css.map",
+    "static/js/2.6211fe80.chunk.js.LICENSE.txt": "/jibaro/static/js/2.6211fe80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9de535b.js",
+    "static/js/2.6211fe80.chunk.js",
+    "static/css/main.7872c039.chunk.css",
+    "static/js/main.82e5a6f7.chunk.js"
+  ]
+}
